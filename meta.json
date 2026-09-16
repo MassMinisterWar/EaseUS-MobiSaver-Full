@@ -1,0 +1,23 @@
+{
+  "repo": "easeus-mobisaver-full",
+  "product": "EaseUS MobiSaver Full",
+  "kind": "recovery",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "mobile-recovery",
+  "topics": [
+    "easeus-mobisaver",
+    "mobile-backup-restore",
+    "iphone-file-recovery",
+    "android-backup-review",
+    "easeus-windows",
+    "phone-data-workshop",
+    "mobisaver-2026",
+    "how-to-install-mobisaver",
+    "mobisaver-desktop",
+    "mobile-restore-package"
+  ],
+  "site": "toolix.me"
+}
